@@ -4,16 +4,15 @@ sidebar_position: 1
 
 # Create new Project
 
-Generate a new CalmAPI REST Project by running the following in your workspace and
-answer some silly questions.
-
+Generate a new CalmAPI REST Project by running
 ```shell
 calmapi
 ```
+CalmAPI will ask some basic questions like the **Name of the project** or **MongoDB URI** etc.
 
 ## Start
 
-Move to the project directory and start the project by following.
+Move to the project directory and start the project by your favorite command.
 ```shell
 npm start
 ```
